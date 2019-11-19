@@ -1,0 +1,14 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.vote-box {
+  display: flex;
+  align-items: center;
+}
